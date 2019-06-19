@@ -1,2 +1,2 @@
-this is a git test and it was wrote!
+this is a git test and it was not wrote!
 
